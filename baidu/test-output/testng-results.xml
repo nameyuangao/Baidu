@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5434" started-at="2019-03-21T09:41:02Z" finished-at="2019-03-21T09:41:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5434" started-at="2019-03-21T09:41:02Z" finished-at="2019-03-21T09:41:08Z">
+      <class name="testBaidu.OpenBaidu">
+        <test-method status="PASS" signature="openChrome()[pri:0, instance:testBaidu.OpenBaidu@1c2c22f3]" name="openChrome" is-config="true" duration-ms="4525" started-at="2019-03-21T17:41:02Z" finished-at="2019-03-21T17:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method status="PASS" signature="openBaidu()[pri:0, instance:testBaidu.OpenBaidu@1c2c22f3]" name="openBaidu" duration-ms="897" started-at="2019-03-21T17:41:07Z" finished-at="2019-03-21T17:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBaidu -->
+      </class> <!-- testBaidu.OpenBaidu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
